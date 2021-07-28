@@ -25,3 +25,20 @@ body{
 
     filter: grayscale(100%);
 }
+
+.client-text{
+    color: #E76F51;
+}
+
+.fas {
+    color: #E77C40;
+}
+
+.far{
+    color: #E77C40;
+
+}
+
+.person-name{
+    color: #23A6F0;
+}
