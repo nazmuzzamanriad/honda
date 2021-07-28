@@ -16,3 +16,12 @@ body{
     background-color: #E76F51;
     
 }
+
+.font-color-small{
+    color: #E76F51;
+}
+
+.img-grayscale{
+
+    filter: grayscale(100%);
+}
